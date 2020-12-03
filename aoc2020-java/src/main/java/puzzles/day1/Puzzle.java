@@ -6,7 +6,7 @@ import utils.ExpenseRepairer;
 import utils.FileManager;
 
 // https://adventofcode.com/2020/day/1
-public class ReportRepair {
+public class Puzzle {
 	private static final int TARGET_EXPENSES_SUM = 2020;
 
 	public static void main(String[] args) {

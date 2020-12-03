@@ -6,8 +6,8 @@ import puzzles.day2.validationstrategy.CharAtGivenPositionRule;
 import puzzles.day2.validationstrategy.CharNumInRangeRule;
 import utils.FileManager;
 
-//	https://adventofcode.com/2020/day/2
-public class PasswordPhilosophy {
+// https://adventofcode.com/2020/day/2
+public class Puzzle {
 
 	public static void main(String[] args) {
 		List<String> passwordList = FileManager.readFromResourcePath("puzzles/day2/input");
