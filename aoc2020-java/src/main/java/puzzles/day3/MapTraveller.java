@@ -24,8 +24,4 @@ public class MapTraveller {
 
 		return encounteredTrees;
 	}
-
-
-
-
 }
